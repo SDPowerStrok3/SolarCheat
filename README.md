@@ -21,8 +21,6 @@ This cheat was created with the help of Solar. This mod menu has many of "Mods" 
 
 -InfBattery
 
--TurnOffAllHacks(Do this when you want to turn off a hack)
-
 You can instal this hack by going to https://github.com/SDPowerStrok3/SolarCheat/releases and using the Latest Release.
 
 When you download the Dll you will need BepInEx so if you dont have it go and instal it.
