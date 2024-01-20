@@ -3,11 +3,7 @@ Welcome to SolarCheat
 
 This cheat was created with the help of Solar. This mod menu has many of "Mods" and more to come.
 
--Kill Self
-
--Heal your Player
-
--Kill others (Not Working)
+-Kill Enemy
 
 -GodMode
 
@@ -20,6 +16,13 @@ This cheat was created with the help of Solar. This mod menu has many of "Mods" 
 -Reach
 
 -InfBattery
+
+-What is Weight (Set Weight to 0)
+
+-OneHanded
+
+-Scrap
+
 
 You can instal this hack by going to https://github.com/SDPowerStrok3/SolarCheat/releases and using the Latest Release.
 
